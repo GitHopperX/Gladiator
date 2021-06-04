@@ -1,2 +1,2 @@
 # Gladiator The Manhole Spy
-This is a remote controlled fighting car 
+![](https://github.com/GitHopperX/Gladiator-The-Manhole-Spy/blob/main/gladiator2.jpg)
