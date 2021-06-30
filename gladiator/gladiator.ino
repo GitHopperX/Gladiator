@@ -105,6 +105,7 @@ void loop() {
         motor2.setSpeed(spd);
         motor1.run(RELEASE);
         motor2.run(RELEASE);
+      case 
     }
   }
 }
